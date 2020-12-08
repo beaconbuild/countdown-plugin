@@ -1,0 +1,8 @@
+um countdown 15 sec zu starten
+ - cd15.use
+um countdown 30 sec zu starten
+ - cd30.use
+um countdown 45 sec zu starten
+ - cd45.use
+um countdown 60 sec zu starten
+ - cd60.use
